@@ -5,8 +5,8 @@ In questa repository sono presenti tutti gli esercizi proposti dal prof. Cristia
 
 Questa repository nasce con l'idea di condividere possibili soluzioni e aiuti per chi rimane bloccato su un problema o cerca esercizi in più per esercitarsi nell'utilizzo del C e del Python. 
 
-------------------IMPORTANTE-----------------------
+------------------------------------------------------IMPORTANTE-------------------------------------------------------------------
 
-NON MI ASSUMO LA RESPONSABILITÀ PER CHI NE ABUSERÀ
+NON MI ASSUMO LA RESPONSABILITÀ PER CHI ABUSERÀ DELLA REPOSITORY, IL CONSIGLIO É DI UTILIZZARLA SOLO IN CASI DI ESTREMA NECESSITÀ
 
-------------------IMPORTANTE-----------------------
+------------------------------------------------------IMPORTANTE-------------------------------------------------------------------
